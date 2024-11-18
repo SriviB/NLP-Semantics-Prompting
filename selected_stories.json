@@ -1,0 +1,50 @@
+[
+    {
+        "story_id": "d0ecfef1-dc1f-4c54-820a-04e4c623da1f",
+        "premise": "Ryan was called by his friend to skip work one day.",
+        "initial": "He missed his train to work and instead went to the park.",
+        "counterfactual": "But Ryan had an important project at work and went in to finish it.",
+        "original_ending": "Ryan and his friend played with birds at the park all day. At the end of the day, they left the park and saw Ryan's boss. Ryan got fired.",
+        "edited_endings": [
+            [
+                "After he finished it Ryan and his friend played with birds at the park the rest of the day.",
+                "At the end of the day, they left the park and saw Ryan's boss.",
+                "Ryan's boss congratulated him on the great work he did on the project."
+            ],
+            [
+                "Ryan's friend played with birds at the park all day.",
+                "At the end of the day, Ryan's friend left the park and saw Ryan's boss.",
+                "Ryan was glad he went to work."
+            ],
+            [
+                "Ryan and his friend fell out about it.",
+                "At the end of the day, Ryan told his friend's boss.",
+                "His friend got fired."
+            ]
+        ]
+    },
+    {
+        "story_id": "237a2426-779d-4d2f-8878-cc1d9895ed5d",
+        "premise": "Neil had been journeying through Asia.",
+        "initial": "Now he had worked his way south into Australia.",
+        "counterfactual": "But he contracted malaria on a Thai island, and had to be flown home for treatment.",
+        "original_ending": "Neil was so excited to see Australian culture. He was thrilled at the prospect of exotic animals and people! His favorite moment was when he got to feed a baby koala bear.",
+        "edited_endings": [
+            [
+                "Neil was upset that he would experience the Thai island culture.",
+                "He had been thrilled at the prospect of exotic animals and people.",
+                "He was hoping he would be able to feed exotic animals."
+            ],
+            [
+                "Neil was so disappointed not to see Australian culture.",
+                "He was saddened that he would miss out on seeing the exotic animals and people!",
+                "His least favorite moment was leaving Asia to fly back home."
+            ],
+            [
+                "Neil was upset about his trip to Asia.",
+                "He had been looking forward to seeing exotic animals and people.",
+                "He would have loved to feed an exotic animal."
+            ]
+        ]
+    }
+]
