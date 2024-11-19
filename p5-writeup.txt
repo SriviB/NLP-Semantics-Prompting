@@ -1,0 +1,7 @@
+Qualitative
+The personas performed much worse on story 2 as some of the outputs gave the opposite result saying that Neil was not excited to go to Australia. One story 1, they performed better, but still had some factually incorrect information like saying Ryan AND his friend stayed late at work. When it should be that just Ryan went in to complete his project.
+
+Overall, the responses were not great and the model outputs do not show much evidence of the model trying to adapt to the personas as the outputs are very similar with repeated phrases and ideas.  
+
+Bleu scores
+The Bleu scores were all zero.
